@@ -2,7 +2,7 @@
 
 §2PLAYERNAME?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3No, his mom LOL. Take care. It has reached a higher level now. It can read our thoughts.
 
 §2That doesn't matter. It thinks we are part of the game.
 
@@ -64,7 +64,7 @@
 
 §3Use its name.
 
-§2PLAYERNAME. Player of games.
+§2PLAYERNAME's mom. Player of games.
 
 §3Good.
 
@@ -76,7 +76,7 @@
 
 §2Once upon a time, there was a player.
 
-§3The player was you, PLAYERNAME.
+§3The player was you, PLAYERNAME's mom.
 
 §2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
 
@@ -146,6 +146,6 @@
 
 §3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
 
-§3You are the player.
+§3You are your own mother.
 
 §2Wake up.
